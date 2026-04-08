@@ -1,0 +1,30 @@
+[
+  {
+    "jti": "token-123",
+    "user_id": "user-456",
+    "revoked_at": "2026-03-18T20:09:24.246846",
+    "expires_at": "2026-03-18T21:09:24.246846",
+    "reason": "logout"
+  },
+  {
+    "jti": "token-1",
+    "user_id": "user-1",
+    "revoked_at": "2026-03-18T20:09:24.289824",
+    "expires_at": "2026-03-18T21:09:24.289824",
+    "reason": "logout"
+  },
+  {
+    "jti": "token-2",
+    "user_id": "user-1",
+    "revoked_at": "2026-03-18T20:09:24.262838",
+    "expires_at": "2026-03-18T21:09:24.261837",
+    "reason": "password_change"
+  },
+  {
+    "jti": "token-3",
+    "user_id": "user-2",
+    "revoked_at": "2026-03-18T20:09:24.262838",
+    "expires_at": "2026-03-18T21:09:24.261837",
+    "reason": null
+  }
+]
