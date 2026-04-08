@@ -230,29 +230,10 @@ pip install pytest
 # Lancer les tests
 pytest tests/
 ```
-
-## 📦 Construction et Publication
-
-```bash
-# Construire le package
-python -m build
-
-# Publier sur PyPI
-twine upload dist/*
-```
-
-## ⚙️ Dépendances
-
-- fastapi
-- uvicorn
-- pydantic
-- python-jose[cryptography]
-- passlib[bcrypt]
-
 ## 📝 License
 
 MIT License
 
 ---
 
-Fait avec ❤️ par GhostAPI
+Fait par ZoubStack
